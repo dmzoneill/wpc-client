@@ -1,0 +1,30 @@
+obj\Debug\Click Here Program Stopper.exe
+obj\Debug\Click Here Program Stopper.xml
+obj\Debug\Click Here Program Stopper.pdb
+bin\Debug\Click Here Program Stopper.exe.manifest
+bin\Debug\Click Here Program Stopper.application
+bin\Debug\Click Here Program Stopper.exe
+bin\Debug\Click Here Program Stopper.pdb
+bin\Debug\Click Here Program Stopper.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication3.Form1.resources
+obj\Debug\WindowsApplication3.Resources.resources
+obj\Debug\WindowsApplication3.vbproj.GenerateResource.Cache
+obj\Debug\Click Here Program Stopper.exe.manifest
+obj\Debug\Click Here Program Stopper.application
+obj\Debug\WindowsApplication3.Dialog1.resources
+bin\Release\Click Here Program Stopper.exe.manifest
+bin\Release\Click Here Program Stopper.application
+bin\Release\Click Here Program Stopper.exe
+bin\Release\Click Here Program Stopper.pdb
+bin\Release\Click Here Program Stopper.xml
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication3.Form1.resources
+obj\Release\WindowsApplication3.Dialog1.resources
+obj\Release\WindowsApplication3.Resources.resources
+obj\Release\WindowsApplication3.vbproj.GenerateResource.Cache
+obj\Release\Click Here Program Stopper.exe.manifest
+obj\Release\Click Here Program Stopper.application
+obj\Release\Click Here Program Stopper.exe
+obj\Release\Click Here Program Stopper.xml
+obj\Release\Click Here Program Stopper.pdb
