@@ -1,5 +1,9 @@
 # WPC Client
 
+<p align="center">
+  <img src=".github/logo.png" alt="wpc-client logo" width="128" />
+</p>
+
 The client agent for Workstation Policy Control (WPC), which shows up as Windows
 Process Controller.
 
